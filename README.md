@@ -4,7 +4,7 @@ The Scroll Token List serves as a source of truth for services such as the Scrol
 
 ## Adding a token to the list
 
-### Create a folder for your token
+### Create a folder for your token 
 
 Create a folder inside the [data folder](https://github.com/scroll-tech/token-list/tree/main/data) with the same name as the symbol of the token you are trying to add. For example, if you are adding a token with the symbol "ETH" you must create a folder called ETH.
 
